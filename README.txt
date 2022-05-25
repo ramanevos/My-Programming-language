@@ -1,4 +1,4 @@
-author: 100488290
+author: Ramandip Singh
 PROGRAMMING LANGUAGE RULES:
 Space between the tokens does not make a difference  Ex: 2+2  is the same as 2 + 2
 
