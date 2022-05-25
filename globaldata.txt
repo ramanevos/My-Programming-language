@@ -1,0 +1,13 @@
+quickMaths = (4 + 5) / 3
+maths = quickMaths
+display maths
+quickMaths = quickMaths + 5
+display quickMaths
+string = "Hello"
+display string
+string2 = string + " World"
+display string2
+string2 = string
+display string2
+bool = 4 > 4
+display bool

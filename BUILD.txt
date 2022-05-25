@@ -1,0 +1,9 @@
+SOFTWARE TO USE: Pycharm
+Steps to build the project:
+1) Open Pycharm and go on load project
+2) Load the entire folder containing the program with all the files(all in the same folder)
+3) Run the "main.py" to test the program
+
+Note: There are 5 example sources files: "arithmetic.txt, logical.txt, strings.txt, globaldata.txt and input.txt"
+To test each of them, change the "filename" variable value in the main.py to the file that needs to be tested. 
+Initially it is set to "filename = arithmetic.txt"

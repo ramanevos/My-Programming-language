@@ -1,0 +1,4 @@
+item = input "insert something: "
+display item
+item2 = input
+display item2
